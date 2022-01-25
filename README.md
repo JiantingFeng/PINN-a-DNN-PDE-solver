@@ -1,2 +1,2 @@
 # PINN-a-DNN-PDE-solver
-Physics Informed Neural Network for Solving Partial Nueral Network (In processing)
+Physics Informed Neural Network for Solving Partial Differential Equation (In processing)
